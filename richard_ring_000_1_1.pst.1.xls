@@ -1,0 +1,384 @@
+Power Supplier Statement - 12/01/2001,Initial Settlement
+
+Billing Date ,01/11/2002
+
+Energy(MWh)
+300 Forward Energy,0
+303 Balancing Energy,0
+
+Energy Settlement ($)
+301 Forward Energy,0.00
+304 Balancing Energy,0.00
+314 ELR DAM Contract Balancing Payment $,0.00
+302 DAM Bid Production Cost Guarantee,0.00
+305 R/T Bid Production Cost Guarantee,0.00
+
+Ancillary Service Charges
+Cost Based Ancillary Services
+306 Reactive Supply and Voltage Control Avail Pymt.,0.00
+307 Reactive Supply and Voltage Control LOC Pymt.,0.00
+312 Black Start Service Payment,0.00
+
+Market Based Ancillary Service
+308 Regulation and Frequency Response Avail Payment,0.00
+309 Regulation and Frequency Response Penalty Charge,0.00
+310 Operating Reserves Service Availability Payment,0.00
+310 Operating Reserves Service Penalty Charge,0.00
+
+
+Power Supplier Statement - 08/01/2001,Initial Settlement,4 Month Settlement
+
+Billing Date ,09/07/2001,01/11/2002
+
+Energy(MWh)
+300 Forward Energy,0,0
+303 Balancing Energy,0,0
+
+Energy Settlement ($)
+301 Forward Energy,0.00,0.00
+304 Balancing Energy,0.00,0.00
+314 ELR DAM Contract Balancing Payment $,0.00,0.00
+302 DAM Bid Production Cost Guarantee,0.00,0.00
+305 R/T Bid Production Cost Guarantee,0.00,0.00
+
+Ancillary Service Charges
+Cost Based Ancillary Services
+306 Reactive Supply and Voltage Control Avail Pymt.,0.00,0.00
+307 Reactive Supply and Voltage Control LOC Pymt.,0.00,0.00
+312 Black Start Service Payment,0.00,0.00
+
+Market Based Ancillary Service
+308 Regulation and Frequency Response Avail Payment,0.00,0.00
+309 Regulation and Frequency Response Penalty Charge,0.00,0.00
+310 Operating Reserves Service Availability Payment,0.00,0.00
+310 Operating Reserves Service Penalty Charge,0.00,0.00
+
+
+Power Supplier Statement - 12/01/2000,Initial Settlement,Rebill,12 Month Settlement
+
+Billing Date ,01/08/2001,05/08/2001,01/11/2002
+
+Energy(MWh)
+300 Forward Energy,0,0,0
+303 Balancing Energy,0,0,0
+
+Energy Settlement ($)
+301 Forward Energy,0.00,0.00,0.00
+304 Balancing Energy,0.00,0.00,0.00
+314 ELR DAM Contract Balancing Payment $,0.00,0.00,0.00
+302 DAM Bid Production Cost Guarantee,0.00,0.00,0.00
+305 R/T Bid Production Cost Guarantee,0.00,0.00,0.00
+
+Ancillary Service Charges
+Cost Based Ancillary Services
+306 Reactive Supply and Voltage Control Avail Pymt.,0.00,0.00,0.00
+307 Reactive Supply and Voltage Control LOC Pymt.,0.00,0.00,0.00
+312 Black Start Service Payment,0.00,0.00,0.00
+
+Market Based Ancillary Service
+308 Regulation and Frequency Response Avail Payment,0.00,0.00,0.00
+309 Regulation and Frequency Response Penalty Charge,0.00,0.00,0.00
+310 Operating Reserves Service Availability Payment,0.00,0.00,0.00
+310 Operating Reserves Service Penalty Charge,0.00,0.00,0.00
+
+
+Power Supplier Statement - 12/01/1999,Rebill,Rebill,Rebill,24 Month Settlement
+
+Billing Date ,09/19/2000,09/20/2000,09/28/2001,01/11/2002
+
+Energy(MWh)
+300 Forward Energy,0,0,0,0
+303 Balancing Energy,0,0,0,0
+
+Energy Settlement ($)
+301 Forward Energy,0.00,0.00,0.00,0.00
+304 Balancing Energy,0.00,0.00,0.00,0.00
+314 ELR DAM Contract Balancing Payment $,0.00,0.00,0.00,0.00
+302 DAM Bid Production Cost Guarantee,0.00,0.00,0.00,0.00
+305 R/T Bid Production Cost Guarantee,0.00,0.00,0.00,0.00
+
+Ancillary Service Charges
+Cost Based Ancillary Services
+306 Reactive Supply and Voltage Control Avail Pymt.,0.00,0.00,0.00,0.00
+307 Reactive Supply and Voltage Control LOC Pymt.,0.00,0.00,0.00,0.00
+312 Black Start Service Payment,0.00,0.00,0.00,0.00
+
+Market Based Ancillary Service
+308 Regulation and Frequency Response Avail Payment,0.00,0.00,0.00,0.00
+309 Regulation and Frequency Response Penalty Charge,0.00,0.00,0.00,0.00
+310 Operating Reserves Service Availability Payment,0.00,0.00,0.00,0.00
+310 Operating Reserves Service Penalty Charge,0.00,0.00,0.00,0.00
+
+
+Transmission Customer Statement - 12/01/2001,Initial Settlement
+
+Billing Date  ,01/11/2002
+
+Energy(MWh)
+700 Forward Energy,3478
+704 Balancing Energy,4450
+800 Ancillary Service,7928
+
+Energy Settlement ($):
+701 Forward Energy $,-108885.79
+705 Balancing Energy $,-130280.89
+768 DAM External Bid Production Cost Guarantee $,0.00
+769 R/T External Bid Production Cost Guarantee $,0.00
+
+Transmission Usage Charge Settlement[TUC] ($):
+752 Forward Congestion Charge,0.00
+751 Forward Loss Charge,0.00
+756 Balancing Congestion Charge,0.00
+755 Balancing Loss Charge,0.00
+
+803 NYPA Transmission Adjustment Charge[NTAC] ,-4915.48
+
+Ancillary Service Charges
+805 809 Scheduling System Control & Dispatch Service,-7135.37
+812 NYISO-wide Uplift,-2925.97
+810 Local Reliability Related Uplift,-14574.61
+813 Residual Adjustments,2142.71
+814 Demand Response Program Uplift,2.56
+
+OATT Charges
+804 Reactive Supply & Voltage Control Service,-2695.59
+807 Regulation & Frequency Response Service,-1352.29
+806 Operating Reserves Service,-2134.33
+808 Black Start Service,-9.51
+
+
+Transmission Customer Statement - 08/01/2001,Initial Settlement,4 Month Settlement
+
+Billing Date  ,09/07/2001,01/11/2002
+
+Energy(MWh)
+700 Forward Energy,2520,2520
+704 Balancing Energy,-1371,91
+800 Ancillary Service,0,2611
+
+Energy Settlement ($):
+701 Forward Energy $,-592298.60,-592298.60
+705 Balancing Energy $,485537.12,369027.32
+768 DAM External Bid Production Cost Guarantee $,0.00,0.00
+769 R/T External Bid Production Cost Guarantee $,0.00,0.00
+
+Transmission Usage Charge Settlement[TUC] ($):
+752 Forward Congestion Charge,0.00,0.00
+751 Forward Loss Charge,0.00,0.00
+756 Balancing Congestion Charge,0.00,0.00
+755 Balancing Loss Charge,0.00,0.00
+
+803 NYPA Transmission Adjustment Charge[NTAC] ,-413.79,-939.98
+
+Ancillary Service Charges
+805 809 Scheduling System Control & Dispatch Service,-1034.48,-2349.96
+812 NYISO-wide Uplift,-1827.76,-5827.42
+810 Local Reliability Related Uplift,-6248.84,-9893.41
+813 Residual Adjustments,-749.98,-1202.81
+814 Demand Response Program Uplift,-11.78,-28.80
+
+OATT Charges
+804 Reactive Supply & Voltage Control Service,-390.80,-887.76
+807 Regulation & Frequency Response Service,-68.14,-156.86
+806 Operating Reserves Service,-1484.07,-3692.85
+808 Black Start Service,-1.12,-2.52
+
+
+Transmission Customer Statement - 12/01/2000,Initial Settlement,Rebill,12 Month Settlement
+
+Billing Date  ,01/08/2001,05/08/2001,01/11/2002
+
+Energy(MWh)
+700 Forward Energy,0,0,0
+704 Balancing Energy,0,0,0
+800 Ancillary Service,0,0,0
+
+Energy Settlement ($):
+701 Forward Energy $,0.00,0.00,0.00
+705 Balancing Energy $,0.00,0.00,0.00
+768 DAM External Bid Production Cost Guarantee $,0.00,0.00,0.00
+769 R/T External Bid Production Cost Guarantee $,0.00,0.00,0.00
+
+Transmission Usage Charge Settlement[TUC] ($):
+752 Forward Congestion Charge,0.00,0.00,0.00
+751 Forward Loss Charge,0.00,0.00,0.00
+756 Balancing Congestion Charge,0.00,0.00,0.00
+755 Balancing Loss Charge,0.00,0.00,0.00
+
+803 NYPA Transmission Adjustment Charge[NTAC] ,0.00,0.00,0.00
+
+Ancillary Service Charges
+805 809 Scheduling System Control & Dispatch Service,0.00,0.00,0.00
+812 NYISO-wide Uplift,0.00,0.00,0.00
+810 Local Reliability Related Uplift,0.00,0.00,0.00
+813 Residual Adjustments,0.00,0.00,0.00
+814 Demand Response Program Uplift,0.00,0.00,0.00
+
+OATT Charges
+804 Reactive Supply & Voltage Control Service,0.00,0.00,0.00
+807 Regulation & Frequency Response Service,0.00,0.00,0.00
+806 Operating Reserves Service,0.00,0.00,0.00
+808 Black Start Service,0.00,0.00,0.00
+
+
+Transmission Customer Statement - 12/01/1999,Rebill,Rebill,Rebill,24 Month Settlement
+
+Billing Date  ,09/19/2000,09/20/2000,09/28/2001,01/11/2002
+
+Energy(MWh)
+700 Forward Energy,0,0,0,0
+704 Balancing Energy,0,0,0,0
+800 Ancillary Service,0,0,0,0
+
+Energy Settlement ($):
+701 Forward Energy $,0.00,0.00,0.00,0.00
+705 Balancing Energy $,0.00,0.00,0.00,0.00
+768 DAM External Bid Production Cost Guarantee $,0.00,0.00,0.00,0.00
+769 R/T External Bid Production Cost Guarantee $,0.00,0.00,0.00,0.00
+
+Transmission Usage Charge Settlement[TUC] ($):
+752 Forward Congestion Charge,0.00,0.00,0.00,0.00
+751 Forward Loss Charge,0.00,0.00,0.00,0.00
+756 Balancing Congestion Charge,0.00,0.00,0.00,0.00
+755 Balancing Loss Charge,0.00,0.00,0.00,0.00
+
+803 NYPA Transmission Adjustment Charge[NTAC] ,0.00,0.00,0.00,0.00
+
+Ancillary Service Charges
+805 809 Scheduling System Control & Dispatch Service,0.00,0.00,0.00,0.00
+812 NYISO-wide Uplift,0.00,0.00,0.00,0.00
+810 Local Reliability Related Uplift,0.00,0.00,0.00,0.00
+813 Residual Adjustments,0.00,0.00,0.00,0.00
+814 Demand Response Program Uplift,0.00,0.00,0.00,0.00
+
+OATT Charges
+804 Reactive Supply & Voltage Control Service,0.00,0.00,0.00,0.00
+807 Regulation & Frequency Response Service,0.00,0.00,0.00,0.00
+806 Operating Reserves Service,0.00,0.00,0.00,0.00
+808 Black Start Service,0.00,0.00,0.00,0.00
+
+
+Transmission Owner Statement - 12/01/2001,Initial Settlement
+
+Billing Date ,01/11/2002
+OATT Attachment N:  Congestion Balancing Settlement ($),0.00
+OATT Attachment H:  External Transmission Service (MWh),0
+OATT Attachment H:  NYPA Transmission Access Settlement ($),0.00
+Ramapo Phase Angle Regulator,0.00
+
+
+Transmission Owner Statement - 08/01/2001,Initial Settlement,4 Month Settlement
+
+Billing Date ,09/07/2001,01/11/2002
+OATT Attachment N:  Congestion Balancing Settlement ($),0.00,0.00
+OATT Attachment H:  External Transmission Service (MWh),0,0
+OATT Attachment H:  NYPA Transmission Access Settlement ($),0.00,0.00
+Ramapo Phase Angle Regulator,0.00,0.00
+
+
+Transmission Owner Statement - 12/01/2000,Initial Settlement,Rebill,12 Month Settlement
+
+Billing Date ,01/08/2001,05/08/2001,01/11/2002
+OATT Attachment N:  Congestion Balancing Settlement ($),0.00,0.00,0.00
+OATT Attachment H:  External Transmission Service (MWh),0,0,0
+OATT Attachment H:  NYPA Transmission Access Settlement ($),0.00,0.00,0.00
+Ramapo Phase Angle Regulator,0.00,0.00,0.00
+
+
+Transmission Owner Statement - 12/01/1999,Rebill,Rebill,Rebill,24 Month Settlement
+
+Billing Date ,09/19/2000,09/20/2000,09/28/2001,01/11/2002
+OATT Attachment N:  Congestion Balancing Settlement ($),0.00,0.00,0.00,0.00
+OATT Attachment H:  External Transmission Service (MWh),0,0,0,0
+OATT Attachment H:  NYPA Transmission Access Settlement ($),0.00,0.00,0.00,0.00
+Ramapo Phase Angle Regulator,0.00,0.00,0.00,0.00
+
+
+Demand Response Statement - 12/01/2001,Initial Settlement
+
+Billing Date ,01/11/2002
+2012 Load Reduction,0.00
+2015 Load Reduction Uplift,0.00
+2013 Demand Response Penalty,0.00
+2011 Demand Response Incentive,0.00
+2014 Demand Reduction Load Balancing,0.00
+
+For Information Only:
+Load Reduction Overcollection Payment,0.00
+Load Reduction Bid Guarantee,0.00
+
+
+Demand Response Statement - 08/01/2001,Initial Settlement,4 Month Settlement
+
+Billing Date ,09/07/2001,01/11/2002
+2012 Load Reduction,0.00,0.00
+2015 Load Reduction Uplift,0.00,0.00
+2013 Demand Response Penalty,0.00,0.00
+2011 Demand Response Incentive,0.00,0.00
+2014 Demand Reduction Load Balancing,0.00,0.00
+
+For Information Only:
+Load Reduction Overcollection Payment,0.00,0.00
+Load Reduction Bid Guarantee,0.00,0.00
+
+
+Demand Response Statement - 12/01/2000,Initial Settlement,Rebill,12 Month Settlement
+
+Billing Date ,01/08/2001,05/08/2001,01/11/2002
+2012 Load Reduction,0.00,0.00,0.00
+2015 Load Reduction Uplift,0.00,0.00,0.00
+2013 Demand Response Penalty,0.00,0.00,0.00
+2011 Demand Response Incentive,0.00,0.00,0.00
+2014 Demand Reduction Load Balancing,0.00,0.00,0.00
+
+For Information Only:
+Load Reduction Overcollection Payment,0.00,0.00,0.00
+Load Reduction Bid Guarantee,0.00,0.00,0.00
+
+
+Demand Response Statement - 12/01/1999,Rebill,Rebill,Rebill,24 Month Settlement
+
+Billing Date ,09/19/2000,09/20/2000,09/28/2001,01/11/2002
+2012 Load Reduction,0.00,0.00,0.00,0.00
+2015 Load Reduction Uplift,0.00,0.00,0.00,0.00
+2013 Demand Response Penalty,0.00,0.00,0.00,0.00
+2011 Demand Response Incentive,0.00,0.00,0.00,0.00
+2014 Demand Reduction Load Balancing,0.00,0.00,0.00,0.00
+
+For Information Only:
+Load Reduction Overcollection Payment,0.00,0.00,0.00,0.00
+Load Reduction Bid Guarantee,0.00,0.00,0.00,0.00
+
+
+Virtual Bidding Statement - 12/01/2001,Initial Settlement
+
+Billing Date ,01/11/2002
+771 DAM Virtual Load LBMP Energy Sales,0.00
+774 Balancing Virtual Load LBMP Energy Sales,0.00
+773 DAM Virtual Load LBMP Energy Expenditure,0.00
+775 Balancing Virtual Load LBMP Energy Expenditure,0.00
+
+Virtual Bidding Statement - 08/01/2001,Initial Settlement,4 Month Settlement
+
+Billing Date ,09/07/2001,01/11/2002
+771 DAM Virtual Load LBMP Energy Sales,0.00,0.00
+774 Balancing Virtual Load LBMP Energy Sales,0.00,0.00
+773 DAM Virtual Load LBMP Energy Expenditure,0.00,0.00
+775 Balancing Virtual Load LBMP Energy Expenditure,0.00,0.00
+
+Virtual Bidding Statement - 12/01/2000,Initial Settlement,Rebill,12 Month Settlement
+
+Billing Date ,01/08/2001,05/08/2001,01/11/2002
+771 DAM Virtual Load LBMP Energy Sales,0.00,0.00,0.00
+774 Balancing Virtual Load LBMP Energy Sales,0.00,0.00,0.00
+773 DAM Virtual Load LBMP Energy Expenditure,0.00,0.00,0.00
+775 Balancing Virtual Load LBMP Energy Expenditure,0.00,0.00,0.00
+
+Virtual Bidding Statement - 12/01/1999,Rebill,Rebill,Rebill,24 Month Settlement
+
+Billing Date ,09/19/2000,09/20/2000,09/28/2001,01/11/2002
+771 DAM Virtual Load LBMP Energy Sales,0.00,0.00,0.00,0.00
+774 Balancing Virtual Load LBMP Energy Sales,0.00,0.00,0.00,0.00
+773 DAM Virtual Load LBMP Energy Expenditure,0.00,0.00,0.00,0.00
+775 Balancing Virtual Load LBMP Energy Expenditure,0.00,0.00,0.00,0.00
+

@@ -1,0 +1,31 @@
+Table name		Short text				
+Field name	Short text			Key	Type	 Lngth
+
+ANLZ		Time-dependent asset allocations				
+MANDT	Client			X	CLNT	3
+BUKRS	Company code			X	CHAR	4
+ANLN1	Main asset number			X	CHAR	12
+ANLN2	Asset sub-number			X	CHAR	4
+BDATU	Date validity ends			X	DATS	8
+ADATU	Date for beginning of validity				DATS	8
+KOSTL	Cost center				CHAR	10
+WERKS	Plant				CHAR	4
+GSBER	Business area				CHAR	4
+LSTAR	Activity Type				CHAR	6
+MSFAK	Multi-shift factor in a multiple shift operation				DEC	3
+XSTIL	Asset shutdown				CHAR	1
+STORT	Asset location				CHAR	10
+CAUFN	Internal order				CHAR	12
+PLAN1	no longer used				CHAR	12
+PLAN2	No longer used				CHAR	4
+RAUMN	Room				CHAR	8
+IAUFN	Maintenance order				CHAR	12
+IPROJ	Old: Project number : No longer used		> PS_POSNR		CHAR	16
+TPLKZ	Unused field length 3				CHAR	3
+TPLNR	Functional location				CHAR	30
+ANUPD	Indicator: Type of change to table				CHAR	1
+TXJCD	Jurisdiction for tax calculation - tax jurisdiction code				CHAR	15
+IPSNR	WBS element - maintenance project				NUMC	8
+KFZKZ	License plate no. of vehichle				CHAR	15
+PERNR	Personnel number				NUMC	8
+KOSTLV	Cost center responsible for asset				CHAR	10

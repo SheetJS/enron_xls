@@ -1,0 +1,51 @@
+Table name		Short text			
+Field name	Short text		Key	Type	 Lngth
+
+ANLB		Depreciation terms			
+MANDT	Client		X	CLNT	3
+BUKRS	Company code		X	CHAR	4
+ANLN1	Main asset number		X	CHAR	12
+ANLN2	Asset sub-number		X	CHAR	4
+AFABE	Real depreciation area		X	NUMC	2
+BDATU	Date validity ends		X	DATS	8
+ADATU	Date for beginning of validity			DATS	8
+ERNAM	Name of person who created object			CHAR	12
+ERDAT	Date on which the record was created			DATS	8
+AENAM	Name of accounting clerk who changed record			CHAR	12
+AEDAT	Change date			DATS	8
+XLOEV	Indicator: account marked for deletion?			CHAR	1
+XSPEB	Indicator: Is account blocked for posting?			CHAR	1
+FELEI	Screen layout for Asset Accounting			CHAR	4
+XNEGA	Indicator: Negative values allowed			CHAR	1
+XGWGK	Indicator: Low-value asset amount and quantity check			NUMC	1
+XUNTA	Indicator: Depreciate main asset number totally			CHAR	1
+AFABG	Depreciation calculation start date			DATS	8
+ZINBG	Start date for interest calculation			DATS	8
+SAFBG	Start date for special depreciation			DATS	8
+INVSL	Investment support key			CHAR	2
+AFASL	Depreciation key (external)			CHAR	4
+NDJAR	Planned useful life in years			NUMC	3
+NDPER	Planned useful life in periods			NUMC	3
+NAPRZ	Ordinary depreciation percentage rate			DEC	7
+SAPRZ	Special depreciation percentage rate			DEC	7
+WBIND	Index series for replacement values			CHAR	5
+ALIND	Index series for replacement values by age			CHAR	5
+APROP	Variable depreciaiton portion			DEC	7
+UMJAR	Depreciation key for the changeover year			NUMC	4
+NDURJ	Original useful life in years			NUMC	3
+NDURP	Original useful life in periods			NUMC	3
+SCHRW	Asset scrap value			CURR	13
+LGJAN	Last fiscal year for the annual values in Asset Acct.			NUMC	4
+PERFY	Period scaling in depreciation start year			NUMC	3
+ANUPD	Indicator: Type of change to table			CHAR	1
+AUFWTG	Revaluation			NUMC	2
+XAFBE	Indicator: Depreciation area is deactivated			CHAR	1
+ANLGR	Group asset			CHAR	12
+ANLGR2	Sub-number of a group asset			CHAR	4
+VYEAR	Acquisition year of the asset (manually changeable)			NUMC	4
+VMNTH	Asset Accounting: Acquis. month (in depreciation area)			NUMC	3
+INBDA	Asset Accounting:  Date of operating readiness			DATS	8
+ABGDAT_B	Value date of last retirement for the depreciation area			DATS	8
+J_1AARVKEY	Inflation adjustment AA - revaluation key			CHAR	4
+J_1AALTDAT	Date of last revaluation			DATS	8
+J_1AALTIDX	Index used for last revaluation			CHAR	5

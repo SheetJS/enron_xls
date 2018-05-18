@@ -1,0 +1,137 @@
+Table name		Short text				
+Field	Short text			Key	Type	 Lngth
+
+ANLA		Asset master record-segment				
+MANDT	Client			X	CLNT	3
+BUKRS	Company code			X	CHAR	4
+ANLN1	Main asset number			X	CHAR	12
+ANLN2	Asset sub-number			X	CHAR	4
+ANLKL	Asset class				CHAR	8
+GEGST	Object number				CHAR	8
+ANLAR	Asset types				CHAR	5
+ERNAM	Name of person who created object				CHAR	12
+ERDAT	Date on which the record was created				DATS	8
+AENAM	Name of accounting clerk who changed record				CHAR	12
+AEDAT	Change date				DATS	8
+XLOEV	Indicator: account marked for deletion?				CHAR	1
+XSPEB	Indicator: Asset blocked for acquisition postings				CHAR	1
+FELEI	Screen layout for Asset Accounting				CHAR	4
+KTOGR	Account determination				CHAR	8
+XOPVW	Indicator asset under construct. with line item settlement				CHAR	1
+ANLTP	Asset type				NUMC	1
+ZUJHR	Fiscal year in which first acquisition was posted				NUMC	4
+ZUPER	Period in which first acquisition was posted				NUMC	3
+ZUGDT	Asset value date of the first posting				DATS	8
+AKTIV	Asset capitalization date				DATS	8
+ABGDT	Asset value date for the last retirement				DATS	8
+DEAKT	Deactivation date				DATS	8
+GPLAB	Planned retirement date				DATS	8
+BSTDT	Asset purchase order date				DATS	8
+ORD41	Gas Plant Acct				CHAR	4
+ORD42	Secondary Loc				CHAR	4
+ORD43	Property Unit No.				CHAR	4
+ORD44	Tax Category				CHAR	4
+ANLUE	Asset super number				CHAR	12
+ZUAWA	Key for sorting according to allocation numbers				CHAR	3
+ANEQK	Indicator: Historical evaluation				NUMC	1
+ANEQS	Completeness indicator for the asset				NUMC	1
+LIFNR	Account number of vendor (other key word)				CHAR	10
+LAND1	Asset's country of origin				CHAR	3
+LIEFE	Name of asset supplier				CHAR	30
+HERST	Manufacturer of asset				CHAR	30
+EIGKZ	Property indicator				CHAR	1
+AIBN1	Original asset that was transferred				CHAR	12
+AIBN2	Original asset that was transferred				CHAR	4
+AIBDT	Original acquisition date of AuC/ transferred asset				DATS	8
+URJHR	Fiscal year of original acquisition				NUMC	4
+URWRT	Original acquisition value				CURR	13
+ANTEI	In-house production percentage				DEC	5
+PROJN	Old: Project number : No longer used		> PS_POSNR		CHAR	16
+EAUFN	Capital inv. order				CHAR	12
+MEINS	Base unit of measure				UNIT	3
+MENGE	Quantity				QUAN	13
+TYPBZ	Asset type name				CHAR	15
+IZWEK	Reason for investment				CHAR	2
+INKEN	Inventory indicator				CHAR	1
+IVDAT	Last inventory date				DATS	8
+INVZU	Supplementary inventory specifications				CHAR	15
+VMGLI	Property classification key				CHAR	4
+XVRMW	Manual property value				CHAR	1
+WRTMA	Manual property value				CURR	13
+EHWRT	Assessed value				CURR	13
+AUFLA	Date of conveyance				DATS	8
+EHWZU	Date of last notice of assessment				DATS	8
+EHWNR	Control number for the notice of assessment				CHAR	16
+GRUVO	Land Register of				DATS	8
+GREIN	Land register entry on				DATS	8
+GRBND	Land register volume				CHAR	5
+GRBLT	Land register page				CHAR	5
+GRLFD	Land register entry: Current number				CHAR	4
+FLURK	Land register map number				CHAR	4
+FLURN	Plot number				CHAR	10
+FIAMT	Local tax office				CHAR	25
+STADT	Municipality				CHAR	25
+GRUND	Reason for manual valuation of net assets				CHAR	3
+FEINS	Area unit				UNIT	3
+GRUFL	Surface area				QUAN	13
+INVNR	Inventory number				CHAR	25
+VBUND	Company ID of trading partner				CHAR	6
+SPRAS	Language keys				LANG	1
+TXT50	Name of asset				CHAR	50
+TXA50	Name of asset				CHAR	50
+XLTXID	Indicator: Long text active				CHAR	1
+XVERID	Long text indicator:Property values				CHAR	1
+XTCHID	Indicator: Technical view long text				CHAR	1
+XKALID	Indicator: Long text active				CHAR	1
+XHERID	Indicator: Long text for manufacturer/origin				CHAR	1
+XLEAID	Indicator: Leasing data long text				CHAR	1
+LEAFI	Leasing company				CHAR	10
+LVDAT	Leasing agreement date				DATS	8
+LKDAT	Leasing contract notice date				DATS	8
+LEABG	Lease start date				DATS	8
+LEJAR	Length of lease in years				NUMC	3
+LEPER	Length of lease in periods				NUMC	3
+LRYTH	Leasing payment cycle				NUMC	3
+LEGEB	Periodic leasing payment paid to leasing company/lessor				CURR	13
+LBASW	Leasing base value as new				CURR	13
+LKAUF	Leased asset purchase price				CURR	13
+LMZIN	Leasing monthly interest rate (Capital Lease)				DEC	7
+LZINS	Leasing interest rate (capital lease)				DEC	7
+LTZBW	Posting date of the last leasing payment				DATS	8
+LKUZA	Total of posted leasing payments				CURR	13
+LKUZI	Total leasing interest posted				CURR	13
+LLAVB	Total of long-term leasing liability				CURR	13
+LEANZ	Number of leasing payments				DEC	5
+LVTNR	Leasing agreement number				CHAR	15
+LETXT	Leasing data text				CHAR	50
+XAKTIV	Indicator: Capitalize fixed asset				CHAR	1
+ANUPD	Indicator: Type of change to table				CHAR	1
+LBLNR	No. of last document with which posting to asset was made				CHAR	10
+XV0DT	Change date: View 0				DATS	8
+XV0NM	"Name of person in charge, who changed View0"				CHAR	12
+XV1DT	Change date: View 1				DATS	8
+XV1NM	"Name of person in charge, who changed view 1"				CHAR	12
+XV2DT	Change date: View 2				DATS	8
+XV2NM	"Name of the person in charge, who changed view 2"				CHAR	12
+XV3DT	Change date: View 3				DATS	8
+XV3NM	"Name of the person in charge, who changed view 3"				CHAR	12
+XV4DT	Change date: View 4				DATS	8
+XV4NM	"Name of the person in charge, who changed view 4"				CHAR	12
+XV5DT	Change date:View 5				DATS	8
+XV5NM	Name of the person in charge who changed view 5				CHAR	12
+XV6DT	Change date:View 6				DATS	8
+XV6NM	Name of the person in charge who changed view 6				CHAR	12
+AIMMO	Indicator: real estate				NUMC	1
+OBJNR	Object number				CHAR	22
+LEART	Leasing type				CHAR	2
+LVORS	Advance payments				CHAR	1
+GDLGRP	Physical Location				CHAR	8
+POSNR	WBS element investment project				NUMC	8
+XERWRT	Indicator: Ignore memo value				CHAR	1
+XAFAB	Asset acquired used				CHAR	1
+XANLGR	Indicator: Asset is a group asset				CHAR	1
+MCOA1	Search term for using matchcode				CHAR	30
+XINVM	Indicator: Cap. investment measure for assets				CHAR	1
+SERNR	Serial number				CHAR	18
+UMWKZ	Reason for environmental investment				CHAR	5
+LRVDAT	Date of last revaluation				DATS	8

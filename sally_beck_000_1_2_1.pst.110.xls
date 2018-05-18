@@ -1,0 +1,3 @@
+CoCd	Payi	Vendor    	Name                               	Loc Curr Amt    	Curr 	Amt paid in local 	Curr 	P	Document  	Paymnt Doc	Ref. Doc.       	Net	Bline Dt  	PayT	Disc1 	Day	Disc2 	Day	RunOn     	ID    	R	Err	Ref3                	Do
+083E	1150	1000000697	ENRON BROADBAND SERVICES LP        	       1,100.00 	USD  	          1100.00-	USD  	C	5100004020	F110000001	20010900467     	 0 	10/03/2001	0N30	0.000 	28 	0.000 	 0 	01/14/2002	DENWC 	X	   	                    	RN
+083E	1150	7000000304	SUN MICROSYSTEMS INC               	     149,730.73 	USD  	        149730.73-	USD  	C	5100001100	F110000003	10413047        	 0 	12/17/2001	0N30	0.000 	28 	0.000 	 0 	01/14/2002	DENWC 	X	   	                    	RN
