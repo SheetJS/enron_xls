@@ -18,6 +18,12 @@ The spreadsheets in this dataset are in their original format, including BIFF2,
 TSV, semicolon-delimited values, SYLK, and HTML files saved as XLS.  They have
 been de-duplicated by MD5 hash.
 
+## Files
+
+- EDRM Dataset: [edrm/](edrm/)
+
+- Nuix modified: [nuix/](nuix/)
+
 ## Methodology
 
 ### EDRM Dataset
